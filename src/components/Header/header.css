@@ -43,6 +43,12 @@ header {
   overflow: hidden;
   padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
+img {
+  height: 100%;
+  width: 100%;
+  border-radius: 12rem 12rem 0 0;
+}
+
 /* ================ scroll down ==================== */
 .scroll__down {
   position: absolute;
