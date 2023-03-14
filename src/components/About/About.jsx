@@ -2,7 +2,7 @@ import React from 'react';
 import { FaAward } from 'react-icons/fa';
 import { FiUsers } from 'react-icons/fi';
 import { VscFolderLibrary } from 'react-icons/vsc';
-import myImg from '../../asets/me-img.jpg';
+import myImg from '../../assets/me-img.jpg';
 import './about.css';
 
 export const About = () => {
