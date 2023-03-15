@@ -45,7 +45,7 @@ export const Contact = () => {
           <article className="contact__option">
             <RiMessengerLine className="contact__option-icon" />
             <h4>Messanger</h4>
-            <h5>david lukasz on msn</h5>
+            <h5>Catch me there</h5>
             <a href="https://m.me/markowd" target="_blank" rel="noreferrer">
               Send a message
             </a>
@@ -54,7 +54,7 @@ export const Contact = () => {
           <article className="contact__option">
             <RxDiscordLogo className="contact__option-icon" />
             <h4>Discord</h4>
-            <h5>My discord name</h5>
+            <h5>Catch me there</h5>
             <a
               href="https://discord.com/users/geriatrichardman#7876"
               target="_blank"
@@ -68,9 +68,12 @@ export const Contact = () => {
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="name" placeholder="Full Name" required />
           <input type="email" name="email" placeholder="Email" required />
-          <textarea name="message" rows="7" placeholder="Your message" required>
-            Your message
-          </textarea>
+          <textarea
+            name="message"
+            rows="7"
+            placeholder="Your message"
+            required
+          ></textarea>
           <button className="btn btn-primary" type="submit">
             Send message
           </button>
