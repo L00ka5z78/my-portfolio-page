@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useRef } from 'react';
+import emailjs from 'emailjs-com';
 import { MdOutlineEmail } from 'react-icons/md';
 import { RiMessengerLine } from 'react-icons/ri';
 import { RxDiscordLogo } from 'react-icons/rx';
@@ -6,6 +7,26 @@ import { RxDiscordLogo } from 'react-icons/rx';
 import './contact.css';
 
 export const Contact = () => {
+  const form = useRef();
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm(
+      'service_bk03ezf',
+      'template_155xryw',
+      form.current,
+      'Sn9If7px7OXiTBH1l'
+    );
+    e.target.reset().then(
+      (result) => {
+        console.log(result.text);
+      },
+      (error) => {
+        console.log(error.text);
+      }
+    );
+  };
+
   return (
     <section id="contact">
       <h5>Get in Touch</h5>
@@ -44,7 +65,7 @@ export const Contact = () => {
           </article>
         </div>
         {/* end of contact options */}
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="name" placeholder="Full Name" required />
           <input type="email" name="email" placeholder="Email" required />
           <textarea name="message" rows="7" placeholder="Your message" required>
