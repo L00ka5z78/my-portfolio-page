@@ -15,88 +15,79 @@ export const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Landing Pages</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>User Flow</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Interface Design</p>
             </li>
+
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Responsive and universal design</p>
             </li>
           </ul>
         </article>
         {/* end of ui ux */}
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Frontend Development</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Developing frontend sollution with HTML and CSS</p>
             </li>
+
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Developing single page applications in JavaScript</p>
             </li>
+
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Developing of frontend sollutions with React</p>
             </li>
           </ul>
         </article>
-        {/* end of web development */}
+        {/* end of frontend development */}
 
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Backend Content Creation</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Building REST APIS with good structure</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>
+                Connecting APIS with both relational and non-relational
+                databases.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Writing tests to prevent errors in APIS</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Deployment</p>
             </li>
+
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit</p>
+              <p>Refactoring of existing code and make it work optimal </p>
             </li>
           </ul>
         </article>
-        {/* end of content creation */}
+        {/* end of backend creation */}
       </div>
     </section>
   );

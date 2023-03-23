@@ -96,6 +96,14 @@ export const Experiance = () => {
                 <small className="text-light">Basic</small>
               </div>
             </article>
+
+            <article className="experiance__details">
+              <BsPatchCheckFill className="experiance__details-icon" />
+              <div>
+                <h4>Typescript</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
           </div>
         </div>
       </div>
