@@ -37,16 +37,16 @@ export const Footer = () => {
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="http://linkedin.com">
+        <a href="http://linkedin.com" target="blank">
           <FaLinkedin />
         </a>
-        <a href="http://instagram.com">
+        <a href="http://instagram.com" target="blank">
           <FiInstagram />
         </a>
-        <a href="http://twitter.com">
+        <a href="http://twitter.com" target="blank">
           <IoLogoTwitter />
         </a>
-        <a href="http://yahoo.com">
+        <a href="http://yahoo.com" target="blank">
           <AiOutlineYahoo />
         </a>
       </div>

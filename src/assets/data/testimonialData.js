@@ -13,7 +13,7 @@ export const data = [
     {
         avatar: AV2,
         name: 'Jeremy Thompson Smith',
-        review: "Ab facere sapiente et accusamus dicta ut dolore quam? Et recusandae magnam aut nobis nemo hic saepe voluptate a consequatur dolorem qui quod harum At saepe asperiores.",
+        review: "Lukas's a clear communicator with the tenacity and confidence to really dig in to tricky design scenarios and the collaborative friction that's needed to produce excellent work.",
     },
     {
         avatar: AV3,
@@ -23,7 +23,7 @@ export const data = [
     {
         avatar: AV4,
         name: 'Nana Ama McCormick',
-        review: "Ut tenetur omnis nam dolore omnis nam voluptatem quod. Eos internos dolores ut soluta fugiat aut temporibus molestiae ab laudantium voluptas eum rerum voluptas ad tenetur obcaecati.",
+        review: "Serious and helpful dude. Got stuck in my project I had to build at school. Got help with debugging and explaination what was wrong and what to do, to avoid those errors in the future..",
     }
 ]
 
