@@ -39,10 +39,16 @@ export const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
+            Im aspiring software developer and like to explore new technologies.
+            Learning JavaScript and most useful things which are used to buid
+            complete applications. I like backend most but i try to solve all
+            kind of problem during coding process. I feel pretty confident with
+            building backend structures and connections both with MySqql, and
+            MongoDb. Im doing my best to learn as much as possible as daily life
+            allows me. Im on complete JS bootcamp (JS, node, express, mysql,
+            mongoDb, TypeScript, React, NestJs) completed several couses on
+            Udemy and of course I write projects on my own too, to develop and
+            extend my skills. I wish I would become a full stack dev one day...
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's have a chat
