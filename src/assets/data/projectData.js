@@ -20,21 +20,21 @@ export const data = [
         image: P3,
         title: 'Simple e-shop dashboard',
         github: "https://github.com/L00ka5z78/simple_shop_FE",
-        demo: "https://dribbble.com/shots/20902409-ChatGPT-Prompt-Assistant-Mobile-App",
+        demo: "https://youtu.be/j5qiS1Qezlw",
     },
     {
         id: 4,
         image: P4,
         title: 'MERN authentication login register form with jwt',
         github: "https://github.com/L00ka5z78/mern_auth060223",
-        demo: "https://dribbble.com/shots/20894267-MoMA-Redesign-Concept",
+        demo: "https://youtu.be/gpt1uKreeOM",
     },
     {
         id: 5,
         image: P5,
         title: 'Fight arena game.',
         github: "https://github.com/L00ka5z78/ts_warrior_game",
-        demo: "https://dribbble.com/shots/20905842-Pigeon-foods",
+        demo: "https://youtu.be/7WLGsql0TTQ",
     },
     {
         id: 6,
@@ -48,7 +48,7 @@ export const data = [
         image: P1,
         title: 'Memes generator in React',
         github: "https://github.com/L00ka5z78/memes_generator_in_react",
-        demo: "https://dribbble.com/shots/20905811-Gaming-Platform-concept",
+        demo: "https://youtu.be/fBq-MyaPyt8",
     },
 ]
 

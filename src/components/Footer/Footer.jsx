@@ -37,7 +37,10 @@ export const Footer = () => {
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="http://linkedin.com" target="blank">
+        <a
+          href="https://www.linkedin.com/in/%C5%82ukasz-bolach/"
+          target="blank"
+        >
           <FaLinkedin />
         </a>
         <a href="http://instagram.com" target="blank">

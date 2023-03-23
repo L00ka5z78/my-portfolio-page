@@ -7,8 +7,8 @@ import AV4 from '../../assets/av4.avif';
 export const data = [
     {
         avatar: AV1,
-        name: 'Garret from the suburbs',
-        review: "Ut reiciendis placeat ut maxime voluptatem eum eaque dolorum ab praesentium incidunt. Et porro repudiandae qui cumque dolor ut corporis dignissimos vel quisquam obcaecati qui molestiae repudiandae!",
+        name: 'Karolina Sosnowska',
+        review: "I created my own portfolio webside, but it was he who built whole backend with MySql database. ",
     },
     {
         avatar: AV2,
@@ -18,7 +18,7 @@ export const data = [
     {
         avatar: AV3,
         name: 'Sigve Henriksen Ass',
-        review: "Et dolor debitis eos quod nulla qui laboriosam perferendis sit tempore nesciunt ut earum ullam quo ullam rerum ex eius doloribus! Nam nulla voluptas ad totam reiciendis ut enim tempora.",
+        review: "Det var bare hyggelig å samarbeide med ham. Fikk hjelp med backend og mongoDb. Jeg fikk til å bygge frontend, men det var han som tok hele backenden på seg. Anbefales!",
     },
     {
         avatar: AV4,
