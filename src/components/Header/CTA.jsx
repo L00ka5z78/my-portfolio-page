@@ -1,5 +1,5 @@
 import React from 'react';
-import cv from '../../assets/cv.docx';
+import cv from '../../assets/Lukasz-Bolach-resume.pdf';
 
 export const CTA = () => {
   return (
