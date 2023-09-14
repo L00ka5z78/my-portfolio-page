@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/my-portfolio-page/static/css/main.c38c7f0c.css",
-    "main.js": "/my-portfolio-page/static/js/main.878d19c1.js",
+    "main.js": "/my-portfolio-page/static/js/main.7e6d6d5c.js",
     "static/media/fightarena.png": "/my-portfolio-page/static/media/fightarena.d347878ad704ca827d90.png",
     "static/media/mernscreen.png": "/my-portfolio-page/static/media/mernscreen.79b87eb39a728b9b2c49.png",
     "static/media/projscreen.png": "/my-portfolio-page/static/media/projscreen.1964a12a578a27122a95.png",
     "static/media/ads.png": "/my-portfolio-page/static/media/ads.773111eff8c1e8da1d57.png",
     "static/media/mm.png": "/my-portfolio-page/static/media/mm.6718704966b0d9c74e68.png",
     "static/media/clf.jpg": "/my-portfolio-page/static/media/clf.ea0f8b7f4c2adbdf0587.jpg",
+    "static/media/Lukasz-Bolach-resume.pdf": "/my-portfolio-page/static/media/Lukasz-Bolach-resume.f603f8344b1984e92239.pdf",
     "static/media/me-img.jpg": "/my-portfolio-page/static/media/me-img.aca04065015fa412d387.jpg",
     "static/media/av4.avif": "/my-portfolio-page/static/media/av4.31931690d9dc01b6afd8.avif",
     "static/media/admin.png": "/my-portfolio-page/static/media/admin.6110d09e4241ba086639.png",
-    "static/media/cv.docx": "/my-portfolio-page/static/media/cv.88431c39123a8cce5e54.docx",
     "static/media/av1.avif": "/my-portfolio-page/static/media/av1.31d9d1b36b4452a9c4af.avif",
     "static/media/av3.avif": "/my-portfolio-page/static/media/av3.5d7ab79309d8c8deadcc.avif",
     "static/media/av2.avif": "/my-portfolio-page/static/media/av2.2fd28cbe996199ea758f.avif",
     "index.html": "/my-portfolio-page/index.html",
     "main.c38c7f0c.css.map": "/my-portfolio-page/static/css/main.c38c7f0c.css.map",
-    "main.878d19c1.js.map": "/my-portfolio-page/static/js/main.878d19c1.js.map"
+    "main.7e6d6d5c.js.map": "/my-portfolio-page/static/js/main.7e6d6d5c.js.map"
   },
   "entrypoints": [
     "static/css/main.c38c7f0c.css",
-    "static/js/main.878d19c1.js"
+    "static/js/main.7e6d6d5c.js"
   ]
 }
